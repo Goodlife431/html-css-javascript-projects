@@ -1,0 +1,78 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+input[type="text"] {
+  /* width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box; */
+  border: 10px solid transparent;
+}
+h1 {
+  text-align: center;
+  color:red;
+  font-size: 60px;
+  font-family: "Shift", sans-serif;
+  font-weight: bold;
+  padding-top: 20px;
+  padding-bottom: 5px;
+}
+body {
+  background-color:gray;
+}
+.first_box{
+  border: 2px solid black;
+  height: 150px;
+  width: 1000px;
+  border-radius: 15px;
+
+}
+.second_box{
+  border: 2px solid black;
+  height: 150px;
+  width: 1000px;
+  border-radius: 15px;
+ 
+}
+.third_box{
+  border: 2px solid black;
+  height: 150px;
+  width: 1000px;
+  border-radius: 15px;
+}
+#submission {
+  width: 80px;
+  height: 30px;
+  color: white;
+  margin-left: 600px;
+}
+button {
+  background-color: red;
+  margin-inline: auto;
+  border-radius: 10px;
+  position: relative;
+  left: 30px;
+}
+.first_text{
+  font-size: 20px;
+}
+.second_text{
+  font-size: 20px;
+}
+.third_text{
+  font-size: 20px;
+}
+.first_div{
+  display: inline-block;
+}
+.second_div{
+  display: inline-block;
+}
+.image{
+  height: 600px;
+  width: 400px;
+  position: relative;
+  top: 150px;
+  
+}
